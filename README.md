@@ -49,6 +49,6 @@ This repository showcases my AI and machine learning projects, experiments, and 
 ## Connect
 
 - GitHub: https://github.com/vc74
-- LinkedIn: [Add your LinkedIn URL here]
+- LinkedIn: [Vaibhav Chaudhary](https://www.linkedin.com/in/vaibhav-chaudhary-91833a232)
 
 > Open to collaboration, internships, and opportunities in AI, machine learning, and data science.
