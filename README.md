@@ -1,121 +1,168 @@
-# Hi 👋, I'm Vaibhav Chaudhary
+<div align="center">
 
-### AI/ML Developer | Machine Learning • Deep Learning • NLP • Generative AI
+# Vaibhav Chaudhary
 
-I'm a final-year **B.Tech Computer Science & Information Technology** student focused on building practical AI applications and strengthening my software engineering foundations.
+### AI/ML Developer • Deep Learning • NLP • Generative AI
 
-I work with **Python, Machine Learning, Deep Learning and NLP**, and I'm currently expanding into **Generative AI, RAG, backend development and MLOps**. Alongside AI/ML, I practice **Data Structures & Algorithms in C++** to improve problem-solving skills.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Building+Machine+Learning+Projects;Exploring+Deep+Learning+%26+NLP;Learning+RAG+%26+Generative+AI;Practicing+DSA+in+C%2B%2B" alt="Typing SVG" />
+
+</div>
 
 ---
 
-## 🚀 About Me
+## 🚀 Currently
 
-- 🤖 Building practical **AI/ML and Deep Learning projects**
-- 🧠 Working with **ANN, CNN, RNN, LSTM and GRU** architectures
-- 💬 Exploring **NLP, text prediction, embeddings and RAG**
-- 📊 Learning model evaluation, tuning and ensemble learning
-- 💻 Practicing **Data Structures & Algorithms in C++**
-- 🌐 Learning backend development for deploying AI applications
-- 🎯 Interested in **AI/ML Engineer, Machine Learning Engineer and AI Developer** opportunities
+- Building practical **AI/ML, Deep Learning and NLP projects**
+- Developing **Next Word Prediction** using RNN, LSTM and GRU
+- Working on **Intelligent Content Retrieval using RAG**
+- Building a **Breast Cancer Detection & Survival Outcome Prediction** major project
+- Practicing **Data Structures & Algorithms in C++**
+- Learning **Backend Development, Deployment and MLOps** for production-ready AI systems
+
+---
+
+## 💼 Project Experience
+
+### 🧠 Next Word Prediction — RNN, LSTM & GRU
+
+Built a deep learning NLP workflow for predicting the next word from text sequences.
+
+- Preprocessed and tokenized quote-based text data
+- Converted text into numerical sequences and applied padding
+- Used embedding layers for dense word representations
+- Implemented recurrent architectures using **Simple RNN, LSTM and GRU**
+- Used **Dense + Softmax** for multi-class next-word prediction
+- Trained models using **Categorical Cross-Entropy and Adam**
+- Built application code for interacting with the prediction workflow
+
+**Tech:** Python • TensorFlow • Keras • NLP • RNN • LSTM • GRU
+
+### 📚 Intelligent Content Retrieval using RAG
+
+Building a Retrieval-Augmented Generation system for retrieving relevant information from documents and generating context-aware responses.
+
+- Document preprocessing and chunking
+- Embedding generation
+- Semantic retrieval and vector search
+- Context retrieval for LLM-based generation
+- Exploring end-to-end RAG application architecture
+
+**Tech:** Python • NLP • Embeddings • Vector Search • RAG • LLMs
+
+### 🎗️ Breast Cancer Detection & Survival Outcome Prediction
+
+Developing a supervised machine learning system for breast cancer detection and survival outcome prediction.
+
+- Exploratory data analysis and preprocessing
+- Feature engineering and model training
+- Classification model comparison
+- Hyperparameter optimization
+- Model explainability with SHAP
+- Planned interactive deployment with Streamlit
+
+**Tech:** Python • Scikit-learn • Pandas • NumPy • SHAP • Streamlit
+
+### 🩺 Heart Disease Prediction
+
+Developed a machine learning workflow for predicting heart-disease risk from patient health attributes.
+
+- Data preprocessing and feature preparation
+- Train/test splitting
+- Supervised machine learning model training
+- Model evaluation and comparison
+
+**Tech:** Python • Pandas • NumPy • Scikit-learn
 
 ---
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+
 ### Languages
-`Python` `C++` `SQL` `JavaScript` `HTML` `CSS`
 
-### Machine Learning
-`Linear Regression` `Logistic Regression` `KNN` `Naive Bayes` `SVM` `Decision Trees` `Random Forest` `XGBoost`
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Ensemble & Unsupervised Learning
-`Bagging` `Boosting` `AdaBoost` `Gradient Boosting` `Stacking` `K-Means` `DBSCAN` `PCA`
+### AI / Machine Learning
 
-### Deep Learning
-`ANN` `CNN` `RNN` `LSTM` `GRU`
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-### NLP & GenAI
-`Tokenization` `Bag of Words` `TF-IDF` `Word Embeddings` `Sequence Modeling` `RAG`
+### Tools
 
-### Libraries & Tools
-`TensorFlow` `Keras` `Scikit-learn` `Pandas` `NumPy` `Matplotlib` `Git` `GitHub` `Jupyter Notebook` `VS Code` `Streamlit`
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
----
-
-## 🚀 Featured Projects
-
-### 🧠 Next Word Prediction — RNN vs LSTM
-Built a next-word prediction model to compare **RNN and LSTM** architectures on text sequences.
-
-**Key work:** text preprocessing, tokenization, sequence generation, padding, embeddings, RNN/LSTM modeling, softmax prediction, categorical cross-entropy and Adam optimization.
-
-**Tech:** `Python` `TensorFlow` `Keras` `NLP` `RNN` `LSTM`
-
-### 🩺 Heart Disease Prediction
-Machine learning project for predicting heart-disease risk from health-related features.
-
-**Key work:** preprocessing, feature preparation, train/test splitting, model training and evaluation.
-
-**Tech:** `Python` `Pandas` `NumPy` `Scikit-learn`
-
-### 🎗️ Breast Cancer Detection & Survival Outcome Prediction
-Developing a supervised machine learning system for **breast cancer detection and survival outcome prediction**.
-
-**Focus:** EDA, preprocessing, feature engineering, classification, model comparison, hyperparameter tuning, explainability and deployment.
-
-**Tech:** `Python` `Scikit-learn` `Pandas` `NumPy` `SHAP` `Streamlit`
-
-### 📚 Intelligent Content Retrieval using RAG
-Developing an intelligent retrieval system using **Retrieval-Augmented Generation** to find relevant document context and generate context-aware answers.
-
-**Focus:** document processing, chunking, embeddings, vector search, semantic retrieval and LLM integration.
-
-**Tech:** `Python` `NLP` `Embeddings` `Vector Search` `LLMs` `RAG`
-
-### 🛒 Ivoore Shopping Website
-E-commerce frontend project built to practice web-development fundamentals and interactive user interfaces.
-
-**Tech:** `HTML` `CSS` `JavaScript`
+</div>
 
 ---
 
-## 📚 Currently Learning
+## 🧩 Core Skills
+
+**Machine Learning:** Linear Regression • Logistic Regression • KNN • Naive Bayes • SVM • Decision Trees • Random Forest • XGBoost
+
+**Ensemble Learning:** Bagging • Boosting • AdaBoost • Gradient Boosting • Stacking
+
+**Unsupervised Learning:** K-Means • DBSCAN • PCA
+
+**Deep Learning:** ANN • CNN • RNN • LSTM • GRU
+
+**NLP:** Tokenization • Bag of Words • TF-IDF • Word Embeddings • Sequence Modeling
+
+**GenAI:** RAG • Embeddings • Semantic Retrieval • LLM Application Concepts
+
+---
+
+## 📌 Featured Projects
+
+| Project | Focus | Repository |
+|---|---|---|
+| 🧠 Next Word Prediction | RNN, LSTM, GRU, NLP | [View Project](https://github.com/vc74/NEXT-WORD-PREDICTION-MOD) |
+| 📚 Intelligent Content Retrieval | RAG, Retrieval, Embeddings | [View Project](https://github.com/vc74/RAG) |
+| 🩺 Heart Disease Prediction | Supervised Machine Learning | [View Project](https://github.com/vc74/heart-disease) |
+| 💬 Chatbot | Conversational Application | [View Project](https://github.com/vc74/Chatbot) |
+| 🛒 Shopping Website | HTML, CSS, JavaScript | [View Project](https://github.com/vc74/Shopping_website) |
+
+---
+
+## 📈 What I'm Building Toward
 
 ```text
-Data Structures & Algorithms
+Strong DSA Foundations
         ↓
-Advanced Machine Learning
+Machine Learning
         ↓
 Deep Learning & NLP
         ↓
 Generative AI & RAG
         ↓
-Backend Development
+Backend Engineering
         ↓
 Deployment & MLOps
+        ↓
+Production-Ready AI Systems
 ```
 
 ---
 
-## 🎯 Areas of Interest
+## 🤝 Connect
 
-- Artificial Intelligence & Machine Learning
-- Deep Learning
-- Natural Language Processing
-- Generative AI
-- Retrieval-Augmented Generation
-- Backend Development for AI
-- MLOps & Model Deployment
+<div align="center">
 
----
+[![GitHub](https://img.shields.io/badge/GitHub-vc74-181717?style=for-the-badge&logo=github)](https://github.com/vc74)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vaibhav%20Chaudhary-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav-chaudhary-91833a232)
 
-## 🤝 Connect With Me
+### Open to AI/ML internships, entry-level roles, collaborations and open-source opportunities.
 
-- **GitHub:** https://github.com/vc74
-- **LinkedIn:** https://www.linkedin.com/in/vaibhav-chaudhary-91833a232
+**Learning. Building. Improving. 🚀**
 
-I'm open to **AI/ML internships, entry-level opportunities, collaborations and open-source projects** where I can build real-world systems and continue improving as a developer.
-
----
-
-> **Learning. Building. Improving. One project at a time. 🚀**
+</div>
